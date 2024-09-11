@@ -25,7 +25,7 @@ This project is a Selenium-based Java automation script that performs the follow
 
 ## Setting Up the Project
 
-## **Clone the Repository**:
+##Clone the Repository:
    
 ##Configure ChromeDriver:
 Download ChromeDriver and place it in a known location on your system.
