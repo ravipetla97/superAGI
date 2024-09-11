@@ -25,10 +25,8 @@ This project is a Selenium-based Java automation script that performs the follow
 
 ## Setting Up the Project
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+## **Clone the Repository**:
+   
 ##Configure ChromeDriver:
 Download ChromeDriver and place it in a known location on your system.
 Update the System.setProperty line in the AmazonScraper.java file:
